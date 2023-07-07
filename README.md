@@ -1,1 +1,0 @@
-# product-rate-microservice-go
